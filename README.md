@@ -1,2 +1,2 @@
 # hello-world
-Hellow rold learning GitHub
+Hello world, learning GitHub
